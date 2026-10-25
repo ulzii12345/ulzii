@@ -1,0 +1,6 @@
+{
+  "name": "Өлзийтөгтөх — Вэб Хөгжүүлэгчийн Портфолио",
+  "description": "16 настай вэб хөгжүүлэгч Өлзийтөгтөхийн бүтээлүүд, танилцуулга ба сонирхлууд.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
